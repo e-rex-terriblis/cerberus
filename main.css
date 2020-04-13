@@ -55,6 +55,19 @@
       margin: 35px;
     }
     
+    a {
+      color: rgb(175, 0, 0);
+      color: rgba(175, 0, 0, 0.5);
+      text-decoration:  none;
+    }
+    
+    a:hover{
+      color: rgb(175, 0, 0);
+      color: rgba(175, 0, 0, 1);
+      text-decoration:  none;
+      font-weight: bold;
+    }
+    
     .quote_mark {
       font-size: 18px;
     }
